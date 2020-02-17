@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,QACF,CAEA,UACE,WAAY,CACZ,YAAa,CACb,oBAAqB,CACrB,kBACF","file":"spring-animation-test.c423b7e4.css","sourceRoot":"..","sourcesContent":["body {\r\n  margin: 0;\r\n}\r\n\r\n#root>div {\r\n  width: 100px;\r\n  height: 100px;\r\n  background-color: red;\r\n  border-radius: 50px;\r\n}"]}
