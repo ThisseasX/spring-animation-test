@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+}
+
+#root>div {
+  width: 100px;
+  height: 100px;
+  background-color: red;
+  border-radius: 50px;
+}
